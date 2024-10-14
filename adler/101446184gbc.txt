@@ -1,2 +1,4 @@
 GBC college is awesome and I love them
 George Brown College offers a variety of programming-focused courses that prepare students for careers in software development, web development, and other technology-related fields.
+
+The college provides both diploma and certificate programs in programming, such as Computer Programmer Analyst, Game Programming, and Web Development.
