@@ -1,3 +1,6 @@
 I love DevOps
 I want to continue 
 GBC COMP3104 DevOps class
+test of terminal    
+test of git hub
+chec in GitHuhaaa
