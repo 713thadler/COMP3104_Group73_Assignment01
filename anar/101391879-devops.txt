@@ -4,3 +4,5 @@ GBC COMP3104 DevOps class
 test of terminal    
 test of git hub
 chec in GitHuhaaa
+Enhance: Add CI/CD example to SDLC content
+Refactor: Add headings to all files for clarity
