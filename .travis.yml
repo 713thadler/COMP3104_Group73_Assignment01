@@ -8,7 +8,7 @@ on:
         - backup-main
 
 jobs:
-  Explore_GitHub_Actions:
+  explore-Github-Actions:
     runs-on: ubuntu-latest
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
